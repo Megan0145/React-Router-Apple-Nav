@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  width: 100vw;
+}
+.mainNav {
+  display: flex;
+  justify-content: center;
+  background-color: #333333;
+  align-items: center;
+}
+.mainNav .mainNavLink {
+  margin: 0.8rem 2.35rem;
+}
+.mainNav .mainNavLink a {
+  font-size: 0.9em;
+  text-decoration: none;
+  color: white;
+}
+.mainNav img {
+  width: 20px;
+  height: 20px;
+  margin:0 2.35rem;
+}
